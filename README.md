@@ -35,10 +35,10 @@ Modifying a plugin or theme you did not write can be time consuming, and can lea
 ![The location of the settings page for this plugin.](https://github.com/alexpflores/rest-endpoints/blob/master/assets/screenshot-1.png)
 
 ### 2. The initial settings page with no endpoints activated.  ###
-![The initial settings page with no endpoints activated. ](http://ps.w.org/rest-endpoints/assets/screenshot-2.png)
+![The initial settings page with no endpoints activated. ](https://github.com/alexpflores/rest-endpoints/blob/master/assets/screenshot-2.png)
 
 ### 3. After activating the endpoints you can test them by clicking the URL.  ###
-![After activating the endpoints you can test them by clicking the URL. ](http://ps.w.org/rest-endpoints/assets/screenshot-3.png)
+![After activating the endpoints you can test them by clicking the URL. ](https://github.com/alexpflores/rest-endpoints/blob/master/assets/screenshot-3.png)
 
 
 ## Changelog ##
