@@ -32,7 +32,7 @@ Modifying a plugin or theme you did not write can be time consuming, and can lea
 ## Screenshots ##
 
 ### 1. The location of the settings page for this plugin. ###
-![The location of the settings page for this plugin.](https://raw.githubusercontent.com/alexpflores/rest-endpoints/assets/screenshot-1.png)
+![The location of the settings page for this plugin.](https://github.com/alexpflores/rest-endpoints/blob/master/assets/screenshot-1.png)
 
 ### 2. The initial settings page with no endpoints activated.  ###
 ![The initial settings page with no endpoints activated. ](http://ps.w.org/rest-endpoints/assets/screenshot-2.png)
