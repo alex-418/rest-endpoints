@@ -2,7 +2,7 @@
 **Tags:** rest, api, endpoints, json   
 **Requires at least:** 3.7  
 **Tested up to:** 4.7.2  
-**Stable tag:** 0.1.0  
+**Stable tag:** 1.0  
 **License:** MIT  
 **License URI:** https://opensource.org/licenses/MIT   
 
@@ -15,19 +15,9 @@ that registered the custom post type.
 
 ## Overview of Features ##
 
-* Quick and Painless endpoints for custom post types 
-* Lists all of your registered custom post types  
-* Test the endpoints url's  
-
-## Frequently Asked Questions ##
-
-### Why do I need this plugin? ###
-
-If you installed a plugin or theme that registered a custom content type for you without enabling it's REST API endpoint, then this plugin is for you!  
-
-### Why wouldn't I just enable REST API support on the other plugin/theme? ###
-
-Modifying a plugin or theme you did not write can be time consuming, and can lead to issues such as losing the ability to update the plugin.  
+* Painless REST API endpoint activation for custom post types that were registered by another plugin or theme. 
+* Lists your registered custom post types.  
+* Test the activated endpoint quickly and easily.  
 
 ## Screenshots ##
 
@@ -45,6 +35,16 @@ Modifying a plugin or theme you did not write can be time consuming, and can lea
 1. Upload `rest-endpoints.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click on the "REST EndPoints" menu item location under the Settings menu. 
+
+## Frequently Asked Questions ##
+
+### Why do I need this plugin? ###
+
+If you installed a plugin or theme that registered a custom content type for you without enabling it's REST API endpoint, then this plugin is for you!  
+
+### Why wouldn't I just enable REST API support on the other plugin/theme? ###
+
+Modifying a plugin or theme you did not write can be time consuming, and can lead to issues such as losing the ability to update the plugin.  
 
 ## Changelog ##
 
