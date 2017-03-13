@@ -10,7 +10,7 @@ Activate endpoints for custom post types that were registered by another plugin 
 
 ## Description ##
  
-This plugin allows you to quickly add REST API support by activating endpoints on custom post types that were registered by another plugin or theme. This can be useful if you don't have control or want to modify the plugin or theme
+This WordPress plugin allows you to quickly add REST API support by activating endpoints on custom post types that were registered by another plugin or theme. This can be useful if you don't have control or want to modify the plugin or theme
 that registered the custom post type.  
 
 ## Overview of Features ##
